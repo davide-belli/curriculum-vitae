@@ -1,0 +1,8 @@
+/fonts
+
+*.aux
+*.log
+*.out
+*.gz
+*.tex
+*.cls
