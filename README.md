@@ -1,2 +1,2 @@
 # Davide Belli CV
-MSc Artificial Intelligence @ University of Amsterdam
+Deep Learning Research Engineer @ Qualcomm AI Research
