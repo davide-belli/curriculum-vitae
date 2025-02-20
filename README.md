@@ -1,2 +1,2 @@
 # Davide Belli CV
-Deep Learning Research Engineer @ Qualcomm AI Research
+Senior Deep Learning Research Engineer @ Qualcomm AI Research
